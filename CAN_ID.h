@@ -1,9 +1,8 @@
-
 #ifndef CAN_ID_h
 #define CAN_ID_h
 
 // Aflmælir
-#define PM_VOLTAGE      0x100
+//#define PM_VOLTAGE      0x100
 #define PM_CURRENT      0x101
 #define PM_TEMP         0x102
 #define PM_POWER        0x103
